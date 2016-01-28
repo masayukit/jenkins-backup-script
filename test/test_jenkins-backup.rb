@@ -61,6 +61,9 @@ class TestJenkinsBackup < Test::Unit::TestCase
           jenkins-backup/jobs/
           jenkins-backup/jobs/example_job/
           jenkins-backup/jobs/example_job/config.xml
+          jenkins-backup/nodes/
+          jenkins-backup/nodes/example_node/
+          jenkins-backup/nodes/example_node/config.xml
           jenkins-backup/plugins/
           jenkins-backup/plugins/dummy.hpi
           jenkins-backup/plugins/dummy.jpi
@@ -96,6 +99,9 @@ class TestJenkinsBackup < Test::Unit::TestCase
           jenkins-backup/jobs/
           jenkins-backup/jobs/example_job/
           jenkins-backup/jobs/example_job/config.xml
+          jenkins-backup/nodes/
+          jenkins-backup/nodes/example_node/
+          jenkins-backup/nodes/example_node/config.xml
           jenkins-backup/plugins/
           jenkins-backup/plugins/dummy.hpi
           jenkins-backup/plugins/dummy.hpi.pinned
